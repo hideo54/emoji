@@ -17,7 +17,7 @@ Emojis created by hideo54
 [![](images/wakaru.png)](https://github.com/hideo54/emoji/raw/master/images/wakaru.png) | [![](images/wakaran.png)](https://github.com/hideo54/emoji/raw/master/images/wakaran.png) | [![](images/naruhodo.png)](https://github.com/hideo54/emoji/raw/master/images/naruhodo.png)
 
 `:kawaii:` | `:terror:`
-:-: | :-: | :-:
+:-: | :-:
 [![](images/kawaii.png)](https://github.com/hideo54/emoji/raw/master/images/kawaii.png) | [![](images/terror.png)](https://github.com/hideo54/emoji/raw/master/images/terror.png)
 
 `:yujo:` | `:yu:` | `:ryo:`
