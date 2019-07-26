@@ -27,3 +27,7 @@ Emojis created by hideo54
 `:ka:` | `:fuka:` | `:uts1-34:`
 :-: | :-: | :-:
 [![](images/ka.png)](https://github.com/hideo54/emoji/raw/master/images/ka.png) | [![](images/fuka.png)](https://github.com/hideo54/emoji/raw/master/images/fuka.png) | [![](images/uts1-34.png)](https://github.com/hideo54/emoji/raw/master/images/uts1-34.png)
+
+`:yuno:` | `:muno:`
+:-: | :-:
+[![](images/yuno.png)](https://github.com/hideo54/emoji/raw/master/images/yuno.png) | [![](images/muno.png)](https://github.com/hideo54/emoji/raw/master/images/muno.png)
