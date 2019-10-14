@@ -28,6 +28,12 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/ka.png)](https://github.com/hideo54/emoji/raw/master/images/ka.png) | [![](images/fuka.png)](https://github.com/hideo54/emoji/raw/master/images/fuka.png) | [![](images/uts1-34.png)](https://github.com/hideo54/emoji/raw/master/images/uts1-34.png)
 
-`:yuno:` | `:muno:`
-:-: | :-:
-[![](images/yuno.png)](https://github.com/hideo54/emoji/raw/master/images/yuno.png) | [![](images/muno.png)](https://github.com/hideo54/emoji/raw/master/images/muno.png)
+`:yuno:` | `:muno:` | `:hontoni:`
+:-: | :-: | :-:
+[![](images/yuno.png)](https://github.com/hideo54/emoji/raw/master/images/yuno.png) | [![](images/muno.png)](https://github.com/hideo54/emoji/raw/master/images/muno.png) | [![](images/hontoni.png)](https://github.com/hideo54/emoji/raw/master/images/hontoni.png)
+
+`:koegadekai:` | `:kimo:` | `:saibansho:`
+:-: | :-: | :-:
+[![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png)
+
+* 本リポジトリの絵文字のうち、黒い文字については全て、2~3 px の白縁をつけることで Dark mode 対応としています。
