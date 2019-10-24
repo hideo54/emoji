@@ -12,21 +12,13 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/otaku.png)](https://github.com/hideo54/emoji/raw/master/images/otaku.png) | [![](images/tokuyuno.png)](https://github.com/hideo54/emoji/raw/master/images/tokuyuno.png) | [![](images/hayakuchi.png)](https://github.com/hideo54/emoji/raw/master/images/hayakuchi.png)
 
-`:wakaru:` | `:wakaran:` | `:naruhodo:`
+`:wakaru:` | `:wakaran:` | `:terror:`
 :-: | :-: | :-:
-[![](images/wakaru.png)](https://github.com/hideo54/emoji/raw/master/images/wakaru.png) | [![](images/wakaran.png)](https://github.com/hideo54/emoji/raw/master/images/wakaran.png) | [![](images/naruhodo.png)](https://github.com/hideo54/emoji/raw/master/images/naruhodo.png)
+[![](images/wakaru.png)](https://github.com/hideo54/emoji/raw/master/images/wakaru.png) | [![](images/wakaran.png)](https://github.com/hideo54/emoji/raw/master/images/wakaran.png) | [![](images/terror.png)](https://github.com/hideo54/emoji/raw/master/images/terror.png)
 
-`:kawaii:` | `:terror:` | `:ada:`
+`:naruhodo:` | `:koresuki:` | `:kawaii:`
 :-: | :-: | :-:
-[![](images/kawaii.png)](https://github.com/hideo54/emoji/raw/master/images/kawaii.png) | [![](images/terror.png)](https://github.com/hideo54/emoji/raw/master/images/terror.png) | [![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png)
-
-`:yujo:` | `:yu:` | `:ryo:`
-:-: | :-: | :-:
-[![](images/yujo.png)](https://github.com/hideo54/emoji/raw/master/images/yujo.png) | [![](images/yu.png)](https://github.com/hideo54/emoji/raw/master/images/yu.png) | [![](images/ryo.png)](https://github.com/hideo54/emoji/raw/master/images/ryo.png)
-
-`:ka:` | `:fuka:` | `:uts1-34:`
-:-: | :-: | :-:
-[![](images/ka.png)](https://github.com/hideo54/emoji/raw/master/images/ka.png) | [![](images/fuka.png)](https://github.com/hideo54/emoji/raw/master/images/fuka.png) | [![](images/uts1-34.png)](https://github.com/hideo54/emoji/raw/master/images/uts1-34.png)
+[![](images/naruhodo.png)](https://github.com/hideo54/emoji/raw/master/images/naruhodo.png) | [![](images/koresuki.png)](https://github.com/hideo54/emoji/raw/master/images/koresuki.png) | [![](images/kawaii.png)](https://github.com/hideo54/emoji/raw/master/images/kawaii.png)
 
 `:yuno:` | `:muno:` | `:hontoni:`
 :-: | :-: | :-:
@@ -35,5 +27,17 @@ Emojis created by hideo54
 `:koegadekai:` | `:kimo:` | `:saibansho:`
 :-: | :-: | :-:
 [![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png)
+
+`:ada:` | `:shogakusei:` | `:singularity:`
+:-: | :-: | :-:
+[![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/shogakusei.png)](https://github.com/hideo54/emoji/raw/master/images/shogakusei.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png)
+
+`:yujo:` | `:yu:` | `:ryo:`
+:-: | :-: | :-:
+[![](images/yujo.png)](https://github.com/hideo54/emoji/raw/master/images/yujo.png) | [![](images/yu.png)](https://github.com/hideo54/emoji/raw/master/images/yu.png) | [![](images/ryo.png)](https://github.com/hideo54/emoji/raw/master/images/ryo.png)
+
+`:ka:` | `:fuka:` | `:uts1-34:`
+:-: | :-: | :-:
+[![](images/ka.png)](https://github.com/hideo54/emoji/raw/master/images/ka.png) | [![](images/fuka.png)](https://github.com/hideo54/emoji/raw/master/images/fuka.png) | [![](images/uts1-34.png)](https://github.com/hideo54/emoji/raw/master/images/uts1-34.png)
 
 * 本リポジトリの絵文字のうち、黒い文字については全て、2~3 px の白縁をつけることで Dark mode 対応としています。
