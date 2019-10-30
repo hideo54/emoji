@@ -24,13 +24,17 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/yuno.png)](https://github.com/hideo54/emoji/raw/master/images/yuno.png) | [![](images/muno.png)](https://github.com/hideo54/emoji/raw/master/images/muno.png) | [![](images/hontoni.png)](https://github.com/hideo54/emoji/raw/master/images/hontoni.png)
 
-`:koegadekai:` | `:kimo:` | `:saibansho:`
+`:kimo:` | `:koegadekai:` | `:shogakusei:`
 :-: | :-: | :-:
-[![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png)
+[![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/shogakusei.png)](https://github.com/hideo54/emoji/raw/master/images/shogakusei.png)
 
-`:ada:` | `:shogakusei:` | `:singularity:`
-:-: | :-: | :-:
-[![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/shogakusei.png)](https://github.com/hideo54/emoji/raw/master/images/shogakusei.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png)
+`:ada:` | `:saibansho:`
+:-: | :-:
+[![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png)
+
+`:jinko-chino:` | `:singularity:`
+:-: | :-:
+[![](images/jinko-chino.png)](https://github.com/hideo54/emoji/raw/master/images/jinko-chino.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png)
 
 `:yujo:` | `:yu:` | `:ryo:`
 :-: | :-: | :-:
