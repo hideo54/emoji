@@ -28,9 +28,9 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/shogakusei.png)](https://github.com/hideo54/emoji/raw/master/images/shogakusei.png)
 
-`:ada:` | `:saibansho:`
-:-: | :-:
-[![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png)
+`:ada:` | `:saibansho:` | `:two-magnitudes-equal-1024x:`
+:-: | :-: | :-:
+[![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png) | [![](images/two-magnitudes-equal-1024x.png)](https://github.com/hideo54/emoji/raw/master/images/two-magnitudes-equal-1024x.png)
 
 `:jinko-chino:` | `:singularity:`
 :-: | :-:
