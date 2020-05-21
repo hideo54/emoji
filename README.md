@@ -32,13 +32,17 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/shugogadekai.png)](https://github.com/hideo54/emoji/raw/master/images/shugogadekai.png) | [![](images/fukinshin.png)](https://github.com/hideo54/emoji/raw/master/images/fukinshin.png)
 
+`:yokya:` | `:inkya:` | `:shitsurei:`
+:-: | :-: | :-:
+[![](images/yokya.png)](https://github.com/hideo54/emoji/raw/master/images/yokya.png) | [![](images/inkya.png)](https://github.com/hideo54/emoji/raw/master/images/inkya.png) | [![](images/shitsurei.png)](https://github.com/hideo54/emoji/raw/master/images/shitsurei.png)
+
 `:ada:` | `:saibansho:` | `:two-magnitudes-equal-1024x:`
 :-: | :-: | :-:
 [![](images/ada.png)](https://github.com/hideo54/emoji/raw/master/images/ada.png) | [![](images/saibansho.png)](https://github.com/hideo54/emoji/raw/master/images/saibansho.png) | [![](images/two-magnitudes-equal-1024x.png)](https://github.com/hideo54/emoji/raw/master/images/two-magnitudes-equal-1024x.png)
 
-`:jinko-chino:` | `:singularity:`
-:-: | :-:
-[![](images/jinko-chino.png)](https://github.com/hideo54/emoji/raw/master/images/jinko-chino.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png)
+`:jinko-chino:` | `:singularity:` | `:modoshite:`
+:-: | :-: | :-:
+[![](images/jinko-chino.png)](https://github.com/hideo54/emoji/raw/master/images/jinko-chino.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png) | [![](images/modoshite.png)](https://github.com/hideo54/emoji/raw/master/images/modoshite.png)
 
 `:overshoot:` | `:overshoot-important-phase:`
 :-: | :-:
