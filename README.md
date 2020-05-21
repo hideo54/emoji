@@ -28,9 +28,9 @@ Emojis created by hideo54
 :-: | :-: | :-:
 [![](images/kimo.png)](https://github.com/hideo54/emoji/raw/master/images/kimo.png) | [![](images/shogakusei.png)](https://github.com/hideo54/emoji/raw/master/images/shogakusei.png) | [![](images/psychopath.png)](https://github.com/hideo54/emoji/raw/master/images/psychopath.png)
 
-`:koegadekai:` | `:shugogadekai:`
-:-: | :-:
-[![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/shugogadekai.png)](https://github.com/hideo54/emoji/raw/master/images/shugogadekai.png)
+`:koegadekai:` | `:shugogadekai:` | `:fukinshin:`
+:-: | :-: | :-:
+[![](images/koegadekai.png)](https://github.com/hideo54/emoji/raw/master/images/koegadekai.png) | [![](images/shugogadekai.png)](https://github.com/hideo54/emoji/raw/master/images/shugogadekai.png) | [![](images/fukinshin.png)](https://github.com/hideo54/emoji/raw/master/images/fukinshin.png)
 
 `:ada:` | `:saibansho:` | `:two-magnitudes-equal-1024x:`
 :-: | :-: | :-:
@@ -39,6 +39,10 @@ Emojis created by hideo54
 `:jinko-chino:` | `:singularity:`
 :-: | :-:
 [![](images/jinko-chino.png)](https://github.com/hideo54/emoji/raw/master/images/jinko-chino.png) | [![](images/singularity.png)](https://github.com/hideo54/emoji/raw/master/images/singularity.png)
+
+`:overshoot:` | `:overshoot-important-phase:`
+:-: | :-:
+[![](images/overshoot.png)](https://github.com/hideo54/emoji/raw/master/images/overshoot.png) | [![](images/overshoot-important-phase.png)](https://github.com/hideo54/emoji/raw/master/images/overshoot-important-phase.png)
 
 `:lovelive:` | `:la:` | `:live:`
 :-: | :-: | :-:
